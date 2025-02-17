@@ -1,2 +1,2 @@
-# hello-world
-just another repository
+# Sistema de Registro
+Estado de proyecto en construccion
